@@ -81,5 +81,6 @@ exports.config = {
     },
   },
   tests: "./features/**/*.feature",
-  name: "tests",
+  name: "STNM_Test
+",
 };
