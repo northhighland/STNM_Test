@@ -7,7 +7,7 @@ const build = process.env.BROWSERSTACK_BUILD_NAME;
 exports.config = {
   helpers: {
     WebDriver: {
-      url: "symeon.hunter@hca.nm.gov",
+      url: "https://hsd--uat.sandbox.my.site.com/nmhr/s/yesnm-home-page?language=en_US",
       //MicrosoftEdge//firefox//chrome
       browser: "chrome",
       restart: true,
